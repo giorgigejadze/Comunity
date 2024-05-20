@@ -1,0 +1,332 @@
+body{
+    width: 1440px;
+    position: relative;
+    top: 65px; left: 220px;
+}
+.logo{
+    position: relative;
+    top: 5px; left: 90px;
+}
+button.Try:hover{
+    color: hsl(321, 100%, 78%);
+    cursor: pointer;
+    border: 2px solid  hsl(321, 100%, 78%);
+}
+.Try{
+    background-color: #ffffff;
+    border: 2px solid  hsl(322, 100%, 66%);
+    border-radius: 10px;
+    color: hsl(322, 100%, 66%);
+    padding: 10px 32px;
+    font-size: 16px;
+    outline: none;
+    border-radius: 20px;
+    position: relative;
+    top: -5PX; left: 995PX;
+}
+.div2{
+    padding: 0px 5px 0px 2px;
+    display: inline-block;
+    position: relative;
+    top: 190px; left: 225px;
+}
+h1{
+    font-size: 50px;
+    font-family: Arial, sans-serif; /* შრიფტის სახელი */
+    font-weight: bold; /* შრიფტის სისქე */
+}
+.huddle{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    padding: 0px 0px 37px 0px;
+}
+.get{
+    height: 80px;
+    width: 395px;
+    border-radius: 50px;
+    position: relative;
+    top: 0px; left: 300px;
+    font-size: 19px;
+    background-color: hsl(322, 100%, 66%);
+    color: aliceblue;
+    border: none;
+    outline: none;
+}
+button.get:hover{
+    background-color: hsl(321, 100%, 78%);
+    cursor: pointer;
+}
+.mock{
+    position: relative;
+    top: 305px; left: 212px;
+}
+.mockups{
+    position: relative;
+    top: 0px; left: 0px;
+}
+.div3{
+    display: inline-block;
+    position: relative;
+    top: 400px; left: 300px;
+    width: 240px;
+}
+.imgcom{
+    padding: 0px 0px 10px 0px;
+    display: inline-block;
+}
+.a1{
+    font-size: 80px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    position: relative;
+    top: 0px; left: 0px;
+    padding: 0px 0px 5px 0px;
+    display: inline-block;
+}
+.Communiti{
+   font-size: 25px;
+   font-family: Arial, sans-serif;
+   margin: 0;
+   color: dimgrey;
+   
+}
+.div4{
+    display: inline-block;
+    position: relative;
+    top: 395px; left: 640px;
+    width: 240px; 
+}
+.a2{
+    font-size: 80px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    position: relative;
+    top: 0px; left: 0px;
+    padding: 0px 0px 5px 0px;
+    display: inline-block;
+}
+.Message{
+   font-size: 25px;
+   font-family: Arial, sans-serif;
+   margin: 0;
+   color: dimgrey;
+}
+.div5{
+    position: relative;
+    top: 600px; left: 0px;
+    background-color: hsl(207, 100%, 98%);
+    height: 550px;
+} 
+.ilu{
+    width: 500px;
+    position: relative;
+    top: -70px; left: 800px;
+}
+.section1{
+    position: relative;
+    top: -140px; left: 0px;
+}
+.section1-2{
+    position: relative;
+    top: -50px; left: 0px;
+}
+.in5{
+    position: relative;
+    top: -525px; left: 180px;
+    font-family: Arial, sans-serif;
+}
+.hh1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.div6{
+    position: relative;
+    top: -50px; left: 190px;
+}
+.flowing{
+    width: 500px;
+}
+.in6{
+  position: relative;
+  top: -120px; left: 125px;
+  font-family: Arial, sans-serif;
+  display: inline-block;
+}
+.hh2{
+    font-size: 40px;
+    font-weight: bold;
+}
+.div7{
+    position: relative;
+    top: 180px; left: 0px;
+    background-color: hsl(207, 100%, 98%);
+    height: 500px;
+    
+}
+.section2{
+     position: relative;
+     top: -140px; left: 0px;
+}
+.section2-2{
+    position: relative;
+    top: 320px; left: 0px;
+}
+.your-users{
+    width: 500px;
+    position: relative;
+    top: -250px; left: 800px;
+}
+.in7{
+  position: relative;
+  top: -350px; left: -330px;
+  font-family: Arial, sans-serif;
+  display: inline-block;
+}
+.hh3{
+    font-size: 40px;
+    font-weight: bold;
+}
+.div8{
+    position: relative;
+    top: 2250px; left: 430px;
+    display: inline-block;
+}
+.hh8{
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+}
+.started{
+    height: 80px;
+    width: 395px;
+    border-radius: 50px;
+    position: relative;
+    top: 0px; left: 125px;
+    font-size: 19px;
+    background-color: hsl(322, 100%, 66%);
+    color: aliceblue;
+    border: none;
+    outline: none;
+}
+button.started:hover{
+    cursor: pointer;
+    background-color: hsl(321, 100%, 78%);
+}
+.div9{
+    position: relative;
+    top: 2580px; left: 0px;
+    background-color: hsl(192, 100%, 9%);
+    height: 500px;
+}
+.fother{
+    position: relative;
+    top: -150px; left: 0px;
+}
+.in9-1{
+    position: relative;
+    top: -40px; left: 120px;
+    display: inline-block;
+    width: 300px;
+    height: 335px;
+}
+.log{
+position: relative;
+top: 0px;left: 0px;
+}
+.lorem{
+    color: aliceblue;
+    font-family: Arial, sans-serif;
+    position: relative;
+    top: 0px; left: 0px;
+    padding: 15px 0px 15px 0px;
+}
+.phone{
+    position: relative;
+    top: 0px; left: 5px;
+}
+.number{
+    display: inline-block;
+    position: relative;
+    top: -5px; left: 15px;
+    padding: 0px 80px 0px 0px;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.email{
+    position: relative;
+    top: 0px; left: 5px;
+}
+.example{
+    position: relative;
+    top: -5px;left: 15px;
+    color: white;
+    padding: 0px 110px 0px 0px;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+}
+.fit{
+    position: relative;
+    top: 42px; left: 0px;
+}
+.face{
+  width: 30px;
+  padding: 0px 20px 0px 0px; 
+  cursor: pointer;
+}
+.insta{
+  width: 30px;
+  padding: 0px 20px 0px 0px;
+  cursor: pointer;
+}
+.twitter{
+ width: 30px;
+ cursor: pointer;
+}
+.in9-2{
+    position: relative;
+    top: -150px; left: 500px;
+    display: inline-block;
+}
+.hew{
+  color: white;
+  font-size: 22px;
+  font-family: Arial, sans-serif;
+}
+.To{
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 0px 0px 20px 0px;
+}
+.em{
+    border-radius: 5px;
+    width: 320px;
+    height: 40px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+.sub{
+    background-color:  hsl(322, 100%, 66%);
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    position: relative;
+    top: 0px; left: 30px;
+    border: none;
+    outline: none;
+}
+button.sub:hover{
+    cursor: pointer;
+    background-color:  hsl(321, 100%, 78%);
+}
+.hud{
+    position: relative;
+    top: -290px; left: -610px;
+    color: white;
+    display: inline-block;
+    padding: 0px 0px 0px 0px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
